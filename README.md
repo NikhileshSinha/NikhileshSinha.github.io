@@ -2,9 +2,9 @@
 ## _Chatting Bot Like Design (Whatsapp like interface)_
 
 
-- [Running Site](https://NikhileshSinha.github.io/)
+- [Running Site](https://nikhileshsinha.github.io/)
 
-[![N|Solid](images/demo.gif)](https://NikhileshSinha.github.io/)
+[![N|Solid](images/demo.gif)](https://nikhileshsinha.github.io/)
 
 ## Technologies Used
 
